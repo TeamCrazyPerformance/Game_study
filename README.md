@@ -7,3 +7,9 @@
 - 중: Build Setting, Project Settings, Package Manager(Unity Registry), animator, GameManager&PoolManager Unreal 엔진과 비교, Unity엔진, Scene Template, XR
 - 하: Tile, Lighting Settings, Shader, Camera, Tick(Start, Awake, Update, fixecUpdate,...), Prefabs, Rendering, Tag, Layer, Audio
 - 시작: 유니티 학습 길잡이
+
+## Unreal Engine
+
+## 그 외
+### 기획 및 게임 인문학
+### 게임사 취업 정보 공유
